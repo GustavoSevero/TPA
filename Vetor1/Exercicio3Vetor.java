@@ -18,7 +18,7 @@ public class Exercicio3Vetor {
 			a[i] = ler.nextInt();
 			b[j] = a[i];
 			j--;
-	}
+    	}
 		System.out.print("a [");
 		for (i=0; i<TAM; i++) {		
 		     System.out.print(a[i]+" ");
@@ -34,3 +34,4 @@ public class Exercicio3Vetor {
 		System.out.println("]\n");
 	}
 }
+
